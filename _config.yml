@@ -18,12 +18,12 @@
 markdown: kramdown
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
   # Site Settings
 locale                   : "ru-RU"
-title                    :
 title_separator          : "-"
+title                    : "Почитаем?"
 name                     : "Катерина Зеленина"
 description              : "Мои заметки о книгах и жизни."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
